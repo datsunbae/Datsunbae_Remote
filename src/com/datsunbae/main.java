@@ -9,9 +9,12 @@ public class main {
 		System.out.println("Edit file on branch master");
 		System.out.println("Edit file on branch NguyenVanDat");
 		System.out.println("Edit branch NguyenVanDat");
-
-
 		System.out.println("Rebase Conflict: branch on master");
+		System.out.println("Rebase conflict: on branch NguyenVanDat");
+		System.out.println("Rebase conflict: on branch NguyenVanDat");
+		System.out.println("Rebase conflict: on branch NguyenVanDat");
+		System.out.println("Rebase conflict: on branch NguyenVanDat");
+		System.out.println("Rebase conflict: on branch NguyenVanDat");
 
 	}
 

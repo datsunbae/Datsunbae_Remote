@@ -7,6 +7,9 @@ public class main {
 		System.out.println("Edit Clone");
 		System.out.println("Edit gitS6");
 		System.out.println("Edit file on branch master");
+		System.out.println("Edit file on branch NguyenVanDat");
+		System.out.println("Edit branch NguyenVanDat");
+
 	}
 
 }
